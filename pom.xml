@@ -41,6 +41,11 @@
 			<version>${extentreports-version}</version>
 		</dependency>
 
+		<dependency>
+		  <groupId>org.testng</groupId>
+		  <artifactId>lombok</artifactId>
+		  <version>1.18.28</version>
+		</dependency>
 
 
 	</dependencies>
